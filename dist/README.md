@@ -1,8 +1,8 @@
 
-  # trhwtrh
+  # Professional-README-Generator
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-GNU-General-Public,None-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
   ## Table of Contents 
   - [Description](#description)
@@ -13,23 +13,23 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  wthwth
+  Creating README.md file
 
   ## Installation:
-  4h4h2
+  Open terminal
 
   ## Usage:
-  24h4h26y
+  Open terminal, type node index, Answer the prompts that follow and On success a README.md and index.html will be generated.
 
   ## License:
-  GNU-General-Public,None
+  MIT
 
   ## Contribution:
-  24h24h
+  Its a school projact and you can contribute the way you like it.
 
   ## Testing:
-  2466h246h
+  Run it and enter the data.
 
   ## Additional Info:
-  - Github: [646h](https://github.com/646h)
-  - Email: 4h46h 
+  - Github: [asadi80](https://github.com/asadi80)
+  - Email: a8sadi@gmail.com 

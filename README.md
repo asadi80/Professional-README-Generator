@@ -33,9 +33,10 @@ Getting Started
 I created index.html file for the readme.
 
 ## Secreenshot
-
+![Screenshot (1)](https://user-images.githubusercontent.com/89751266/146855451-64ef4bc3-108d-47ab-b357-b02a4dc64d2a.png)
 
 ## Demo
+https://user-images.githubusercontent.com/89751266/146855685-9fa84170-c0ea-4921-bc99-47640ea6eca3.mp4
 
 ## Installation
 Download it through Github
