@@ -1,5 +1,5 @@
 
-  # Professional-README-Generator
+  # generating read me file
 
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -13,22 +13,22 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  Creating README.md file
+  its an app that can help you to generate a readme file
 
   ## Installation:
-  Open terminal
+  clone it the instal inqure 
 
   ## Usage:
-  Open terminal, type node index, Answer the prompts that follow and On success a README.md and index.html will be generated.
+  use it to generate read me file
 
   ## License:
   MIT
 
   ## Contribution:
-  Its a school projact and you can contribute the way you like it.
+  the you you like it
 
   ## Testing:
-  Run it and enter the data.
+  run it and answer the quetions
 
   ## Additional Info:
   - Github: [asadi80](https://github.com/asadi80)
